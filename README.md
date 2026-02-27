@@ -4,7 +4,6 @@
 
 - **Course Code:** CS2250  
 - **Course Name:** Fundamentals of Machine Learning  
-- **Programme:** B.Sc (Hons)  
 - **Semester:** VI  
 
 ##  Course Objectives
