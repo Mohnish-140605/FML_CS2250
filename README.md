@@ -1,13 +1,13 @@
 # CS2250 – Fundamentals of Machine Learning Lab
 
-## 📘 Course Information
+## Course Information
 
 - **Course Code:** CS2250  
 - **Course Name:** Fundamentals of Machine Learning  
 - **Programme:** B.Sc (Hons)  
 - **Semester:** VI  
 
-## 🎯 Course Objectives
+##  Course Objectives
 
 - Provide a foundational understanding of machine learning paradigms.
 - Apply supervised learning algorithms for classification and regression.
@@ -17,7 +17,7 @@
 
 ---
 
-## 📚 Syllabus Overview
+## Syllabus Overview
 
 ### 🔹 Module 1 – Fundamentals of Machine Learning
 - Introduction to Machine Learning
@@ -97,7 +97,7 @@
 
 ---
 
-## 🧪 Lab Programs
+##  Lab Programs
 
 1. Random Forest for Classification and Regression  
 2. Boosting Algorithms (AdaBoost & Gradient Boosting)  
